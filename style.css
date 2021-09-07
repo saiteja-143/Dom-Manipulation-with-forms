@@ -1,0 +1,71 @@
+#Address,#pincode,#male,#female,#state,#country{
+    margin-left:11px;
+}
+#indian,#western,#chinese,#candian{
+    margin-left:80px;
+}
+#container1{
+    /* margin:auto;
+    max-width: 500px; */
+    max-height: 450px;
+    border:5px;
+    border-color: blue;
+    border-width: 5px;
+    border-style:solid;
+    padding:0px 200px 85px 200px;
+    background-color:lightgreen;
+}
+#state{
+    margin-left:26px
+}
+#polish,#italian{
+    margin-left:68px
+}
+#italian{
+    margin-left:91px;
+}
+#submit{
+    margin-left: 210px;
+}
+th,table{
+    border:2px solid black;
+    border-collapse: collapse;
+    
+    
+   
+}
+th{
+    padding:10px 30px 10px 30px;
+}
+table{
+    margin:5px 50px 5px 450px;
+    background-color:coral;
+}
+tr,td{
+    border: solid 2px black;
+padding: 10px;
+text-align: center;
+background-color: orange;
+
+
+}
+#div2{
+    float: left;
+}
+#form1{
+    margin:auto;
+    max-width: 500px;
+    /* border:crimson 5px solid; */
+
+}
+/* .table{
+    margin:auto;
+    max-width: 1000px;
+
+} */
+th{
+    margin:auto;
+}
+td{
+    background-color: lightpink;
+}
